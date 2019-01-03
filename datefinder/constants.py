@@ -1,6 +1,6 @@
 import regex as re
 
-NUMBERS_PATTERN = r"first|second|third|fourth|fifth|sixth|seventh|eighth|nineth|tenth"
+NUMBERS_PATTERN = r"first|second|third|fourth|fifth|sixth|seventh|eighth|nineth|tenth|one|two|three|four|five|six|seven|eight|nine|ten"
 POSITIONNAL_TOKENS = r"next|last"
 DIGITS_PATTERN = r"\d+"
 DIGITS_SUFFIXES = r"st|th|rd|nd"
